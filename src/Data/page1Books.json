@@ -1,0 +1,77 @@
+{
+    "products":[
+        {
+            "_id":"prod1",
+            "image":"/Images/prod1'.jpg",
+             "title":" A premimum diary ",
+            "description":"about product 1",
+            "availableSizes":["S","L","ALL"],
+            "price":"$29.9"
+        },
+        {
+            "_id":"prod12",
+            "image":"/Images/prod12.jpg",
+             "title":"Bussiness diary for keeping daily data",
+            "description":"about product 2",
+            "availableSizes":["S","L","ALL"],
+             "price": "$19.9"
+        },
+        {
+        "_id":"prod13",
+        "image":"/Images/prod13.jpg",
+         "title":"Bussiness diary for keeping daily data",
+        "description":"about product 2",
+        "availableSizes":["S","L","ALL"],
+         "price": "$19.9"
+            
+        },
+        {
+            "_id":"prod14",
+            "image":"/Images/prod14.jpg",
+             "title":" Book that makes you spritually strong",
+            "description":"about product 2",
+            "availableSizes":["X","M","ALL"],
+             "price": "$39.9"
+        },
+        {
+            "_id":"prod15",
+            "image":"/Images/prod15'.jpg",
+             "title":" Class 10th Course Books ",
+            "description":"about product 2",
+            "availableSizes":["X","M","ALL"],
+             "price": "$49.9"
+        },
+        {
+            "_id":"prod16",
+            "image":"/Images/prod16.jpg",
+             "title":"How to become An Enterpreneur  ",
+            "description":"about product 2",
+            "availableSizes":["X","M","ALL"],
+             "price":"$79.9"
+        },
+        {
+            "_id":"prod16",
+            "image":"/Images/prod17.jpg",
+             "title":"Kid Book HOP  ON POP  ",
+            "description":"about product 2",
+            "availableSizes":["XS","ALL"],
+             "price":"$9.9"
+        },
+        {
+            "_id":"prod16",
+            "image":"/Images/prod18.jpg",
+             "title":"Shapes and its geometry  ",
+            "description":"about product 2",
+            "availableSizes":["XL","ALL"],
+             "price":"$8.9"
+        },
+        {
+            "_id":"prod16",
+            "image":"/Images/prod19.jpg",
+             "title":"Everybody has something to give  ",
+            "description":"about product 2",
+            "availableSizes":["XXL","ALL"],
+             "price":"$5.9"
+        }
+    ]
+}

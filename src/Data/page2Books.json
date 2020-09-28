@@ -1,0 +1,77 @@
+{
+    "magazines":[
+        {
+            "_id":"book1",
+            "image":"/Images/book1.jpg",
+             "title":" Forbes Magazine ",
+            "description":"about product 1",
+            "availableSizes":["S","XL","XXL","ALL"],
+            "price":"$29.9"
+        },
+        {
+            "_id":"book2",
+            "image":"/Images/book2''.jpg",
+             "title":"Times Magazine",
+            "description":"about product 2",
+            "availableSizes":["X","M","ALL"],
+             "price": "$19.9"
+        },
+        {
+        "_id":"book3",
+        "image":"/Images/book3.jpg",
+         "title":"Glamour Magazine",
+        "description":"about product 2",
+        "availableSizes":["X","S","ALL"],
+         "price": "$19.9"
+            
+        },
+        {
+            "_id":"prod14",
+            "image":"/Images/book4.jpg",
+             "title":"Vouge Magazine",
+            "description":"about product 2",
+            "availableSizes":["XXL","ALL"],
+             "price": "$39.9"
+        },
+        {
+            "_id":"book5",
+            "image":"/Images/book5.jpeg",
+             "title":"Wings of Fire ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price": "$49.9"
+        },
+        {
+            "_id":"prod16",
+            "image":"/Images/book6.jpg",
+             "title":"",
+            "description":"about product 2",
+            "availableSizes":["X","L","AL"],
+             "price":"$79.9"
+        },
+        {
+            "_id":"prod16",
+            "image":"/Images/book7.jpg",
+             "title":"Kid Book HOP  ON POP  ",
+            "description":"about product 2",
+            "availableSizes":["X","ALL"],
+             "price":"$9.9"
+        },
+        {
+            "_id":"prod16",
+            "image":"/Images/book8.jpeg",
+             "title":"Shapes and its geometry  ",
+            "description":"about product 2",
+            "availableSizes":["M","L","ALL"],
+             "price":"$8.9"
+        },
+        {
+            "_id":"prod16",
+            "image":"/Images/book2''.jpg",
+             "title":"Everybody has something to give  ",
+            "description":"about product 2",
+            "availableSizes":["M","L","ALL"],
+             "price":"$5.9"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "products":[
+        {
+            "_id":"toy1",
+            "image":"/Images/shoe1.jpg",
+             "title":" yellow Sports shoes ",
+            "description":"about product 1",
+            "availableSizes":["X","L","XL","XXL"],
+            "price":"$29.9"
+        },
+        {
+            "_id":"toy2",
+            "image":"/Images/shoe2.jpg",
+             "title":"Grey sports Shoes",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price": "$19.9"
+        },
+        {
+        "_id":"toy3",
+        "image":"/Images/shoe3.jpg",
+         "title":"Black Puma shoes",
+        "description":"about product 2",
+        "availableSizes":["X","M","L","S"],
+         "price": "$19.9"
+            
+        },
+        {
+            "_id":"toy4",
+            "image":"/Images/shoe9.jpg",
+             "title":" Book that makes you spritually strong",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price": "$39.9"
+        },
+        {
+            "_id":"toy5",
+            "image":"/Images/shoe5.jpg",
+             "title":" Class 10th Course Books ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price": "$49.9"
+        },
+        {
+            "_id":"toy6",
+            "image":"/Images/shoe6.jpg",
+             "title":"How to become An Enterpreneur  ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L","XS"],
+             "price":"$79.9"
+        },
+        {
+            "_id":"toy7",
+            "image":"/Images/shoe7.jpg",
+             "title":"Kid Book HOP  ON POP  ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L","XS"],
+             "price":"$9.9"
+        },
+        {
+            "_id":"toy8",
+            "image":"/Images/shoe8.jpg",
+             "title":"Shapes and its geometry  ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L","XL"],
+             "price":"$8.9"
+        },
+        {
+            "_id":"toy9",
+            "image":"/Images/shoe9.jpg",
+             "title":"Everybody has something to give  ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L","ALL"],
+             "price":"$5.9"
+        }
+    ]
+}

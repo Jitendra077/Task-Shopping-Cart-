@@ -1,0 +1,77 @@
+{
+    "products":[
+        {
+            "_id":"toy1",
+            "image":"/Images/toy1.jpg",
+             "title":" A premimum diary ",
+            "description":"about product 1",
+            "availableSizes":["X","L","XL","XXL"],
+            "price":"$29.9"
+        },
+        {
+            "_id":"toy2",
+            "image":"/Images/toy2.jpg",
+             "title":"Bussiness diary for keeping daily data",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price": "$19.9"
+        },
+        {
+        "_id":"toy3",
+        "image":"/Images/toy3.jpg",
+         "title":"Bussiness diary for keeping daily data",
+        "description":"about product 2",
+        "availableSizes":["X","M","L"],
+         "price": "$19.9"
+            
+        },
+        {
+            "_id":"toy4",
+            "image":"/Images/toy4.jpg",
+             "title":" Book that makes you spritually strong",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price": "$39.9"
+        },
+        {
+            "_id":"toy5",
+            "image":"/Images/toy5.jpg",
+             "title":" Class 10th Course Books ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price": "$49.9"
+        },
+        {
+            "_id":"toy6",
+            "image":"/Images/toy6.jpg",
+             "title":"How to become An Enterpreneur  ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price":"$79.9"
+        },
+        {
+            "_id":"toy7",
+            "image":"/Images/toy7.jpg",
+             "title":"Kid Book HOP  ON POP  ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price":"$9.9"
+        },
+        {
+            "_id":"toy8",
+            "image":"/Images/toy8.jpeg",
+             "title":"Shapes and its geometry  ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price":"$8.9"
+        },
+        {
+            "_id":"toy9",
+            "image":"/Images/toy9.jpg",
+             "title":"Everybody has something to give  ",
+            "description":"about product 2",
+            "availableSizes":["X","M","L"],
+             "price":"$5.9"
+        }
+    ]
+}
